@@ -52,6 +52,6 @@ class Calculator
         }
 
         
-        Console.WriteLine($"Result: {operand1} {operation} {operand2} = {result}");
+        Console.WriteLine("Result: {operand1} {operation} {operand2} = {result}");
     }
 }
